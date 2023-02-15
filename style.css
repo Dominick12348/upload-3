@@ -1,0 +1,9 @@
+.img{
+  width:100%;
+  object-fit: contain;
+}
+.balls{
+  display:flex;
+  justify-content: cetner;
+  justify-content: speed-between;
+}
